@@ -1,2 +1,2 @@
 # Obesity_level
-A ML clustering based project
+An ML clustering project on the estimation of Obesity Levels based On lifestyle and Physical Conditions.
